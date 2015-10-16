@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1393058054 source:c:\users\patrick\desktop\cmpt 361\projects\tetris\pieces.cpp
+	"Pieces.h"
+
+1393058054 c:\users\patrick\desktop\cmpt 361\projects\tetris\pieces.h
+
+1393058054 source:c:\users\patrick\desktop\cmpt 361\projects\tetris\tetris.cpp
+	"include/Angel.h"
+	"Pieces.h"
+	<iostream>
+
+1394369347 c:\users\patrick\desktop\cmpt 361\projects\tetris\include\angel.h
+	<cmath>
+	<iostream>
+	<cstdio>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glew.h>
+	<GL/glut.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1304625196 c:\users\patrick\desktop\cmpt 361\projects\tetris\include\vec.h
+	"Angel.h"
+
+1304730832 c:\users\patrick\desktop\cmpt 361\projects\tetris\include\mat.h
+	"vec.h"
+
+1289190198 c:\users\patrick\desktop\cmpt 361\projects\tetris\include\checkerror.h
+	<stdio.h>
+	<GL/gl.h>
+
+1394369359 source:c:\users\patrick\desktop\cmpt 361\projects\tetris\include\initshader.cpp
+	"Angel.h"
+	<cstdlib>
+
